@@ -1,0 +1,16 @@
+hash: 8bd2f278bda1e080ca709d8d505995391171dcec71663fa2a321a719fe23ee02
+updated: 2017-10-20T16:58:15.379135368+08:00
+imports:
+- name: github.com/go-redis/redis
+  version: 35248155a505a84811be81a2aab1c423317447be
+  subpackages:
+  - internal
+  - internal/consistenthash
+  - internal/hashtag
+  - internal/pool
+  - internal/proto
+- name: gopkg.in/alexcesaro/quotedprintable.v3
+  version: 2caba252f4dc53eaf6b553000885530023f54623
+- name: gopkg.in/gomail.v2
+  version: 81ebce5c23dfd25c6c67194b37d3dd3f338c98b1
+testImports: []

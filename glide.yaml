@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/go-redis/redis
+  version: ^6.7.2
+- package: gopkg.in/gomail.v2
+  version: ^2.0.0
